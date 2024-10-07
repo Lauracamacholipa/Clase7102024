@@ -1,13 +1,13 @@
 /*body{
     background-color: green;
 }
-p{
+/*p{
     background-color: #ff0000;
 
 }
 div{ 
     background-color: hsl(60,);
-}*/
+}
 .caja1{
     width:150px;
     height:150px;
@@ -23,4 +23,31 @@ div{
     width:150px;
     height:150px;
     background-color: hsl(60, 100%, 50%);
+}*/
+
+/**{ 
+    color:orange;
+}*/
+
+/*div{
+    color:green;
+}*/
+
+.caja1{
+    color:red;
+}
+
+#foo{
+    color:orange;
+}
+
+a[title]{
+    color:green;
+}
+button:hover{
+    background-color: green;
+}
+
+input:disabled{
+    border:2px solid orange;
 }
